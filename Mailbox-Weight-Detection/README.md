@@ -109,3 +109,9 @@ data: "Mail detected"
 ## 📜 License  
 This project is released under the **MIT License**.  
 Screenshots:  
+![WhatsApp Image 2025-09-25 at 14 14 27_49c385ee](https://github.com/user-attachments/assets/24493b92-7959-42a7-8890-4488eedb0291)
+![WhatsApp Image 2025-09-25 at 14 14 27_e8f0f3e1](https://github.com/user-attachments/assets/6db0524f-eb5a-4430-9811-71a473e540ce)
+![WhatsApp Image 2025-09-25 at 14 14 28_80505840](https://github.com/user-attachments/assets/a8588ed8-ff7f-42d7-b3cd-1af9ebb55cb9)
+
+
+
