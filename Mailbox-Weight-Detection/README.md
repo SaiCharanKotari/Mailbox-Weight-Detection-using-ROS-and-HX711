@@ -1,4 +1,4 @@
-# Mailbox Weight Detection using ROS and HX711  
+﻿# Mailbox Weight Detection using ROS and HX711  
 
 This project demonstrates how to use an **Arduino + HX711 load cell amplifier** to measure weight and publish the data to a **ROS (Robot Operating System)** environment. It simulates a **smart mailbox** that detects when mail is added or removed based on changes in measured weight.  
 
@@ -106,6 +106,6 @@ data: "Mail detected"
 ```
 
 ---
-
 ## 📜 License  
 This project is released under the **MIT License**.  
+Screenshots:  
